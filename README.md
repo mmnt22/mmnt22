@@ -1,8 +1,13 @@
 ### Hi there 👋
 
+This is my second learning using Github. <br>
+I am  a senior cybersurity and forensic student.
+
+The first learn I did at school, I think we edit the yaml file. That's what I rememeber.
+
 <!--
 **mmnt22/mmnt22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br> = means break or enter a new line
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
